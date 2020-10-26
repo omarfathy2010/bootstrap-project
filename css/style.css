@@ -1,0 +1,19 @@
+.nav-link{
+    font-size: 18px;
+    margin-left: 20px;
+}
+.navbar{
+    box-shadow: 0 2px 5px #3292a6;
+}
+header{
+    min-height: 85vh;
+    background-image:linear-gradient(rgba(50, 146, 166,.6),rgba(50, 146, 166,.6)) ,url(../imges/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.card-body img{
+    margin-top: -60px;
+}
+footer{
+    min-height: 100px;
+}
